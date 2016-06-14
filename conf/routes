@@ -1,0 +1,2 @@
+GET     /a                           controllers.ApplicationController.a
+GET     /b                           controllers.OtherApplicationController.b
